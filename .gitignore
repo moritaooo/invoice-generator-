@@ -1,0 +1,18 @@
+# PDFを含む出力フォルダ
+invoices/
+
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebookチェックポイント
+.ipynb_checkpoints/
+
+# 環境ファイル（仮想環境などがある場合）
+.env
+.venv/
+venv/
+
+# OS・エディタによる不要ファイル
+.DS_Store
+*.swp
