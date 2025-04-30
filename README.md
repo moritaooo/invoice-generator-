@@ -15,11 +15,6 @@ CSVファイルで渡された顧客情報を元に、HTMLテンプレートを�
 
 ---
 
-## 📂 ファイル構成
-
-. ├── generate_invoices.py # メインスクリプト ├── customers.csv # 顧客情報（会社名、担当者、商品など） ├── invoice_template.html # HTMLテンプレート ├── .gitignore # PDFなどをGitから除外 └── README.md # この説明ファイル
-
----
 
 ## 📝 機能
 
